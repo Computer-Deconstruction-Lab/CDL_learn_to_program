@@ -1,5 +1,5 @@
 The Computer Deconstruction Laboratory at the InfoAge Science and History Museum offers a free introduction to progamming workshop.
-The workshop uses a Arduino Uno to introduce beginners to programs
+The workshop uses a Arduino Uno to introduce beginners to programming
 
 All of the wiring uses snap circuits https://shop.elenco.com/consumers/brands/snap-circuits.html 
 
